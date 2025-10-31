@@ -10,14 +10,14 @@ This is a **Python-based Hospital/Admin Management System** implemented using th
 
 ## ✨ Features
 
-  * *Centralized Dashboard:* A main administrative page displaying key statistics like **Patients**, **Doctors**, **Appointments**, and **Funds**.
-  * *Modular Management:* Dedicated dashboards for managing user types, including:
+   *Centralized Dashboard:* A main administrative page displaying key statistics like **Patients**, **Doctors**, **Appointments**, and **Funds**.
+   *Modular Management:* Dedicated dashboards for managing user types, including:
     * 😷 **Doctors** dashboard
     * 👥 **Patients** dashboard
     * 💼 **Employees** dashboard
-  * *Utility Tools:* Includes a sidebar link for quick access to a **🧮 Calculator**.
-  * *Reporting:* A dedicated section for viewing **📊 Reports** and generating data summaries.
-  * *Data Persistence:* Utilizes a custom `FileManager` to store and retrieve application data (found in the `data` directory).
+   *Utility Tools:* Includes a sidebar link for quick access to a **🧮 Calculator**.
+   *Reporting:* A dedicated section for viewing **📊 Reports** and generating data summaries.
+   *Data Persistence:* Utilizes a custom `FileManager` to store and retrieve application data (found in the `data` directory).
 
 -----
 
@@ -60,7 +60,11 @@ This project is a standalone Python application that requires no complex web ser
 ## 📂 Project Structure
 
 This structure shows where the Python code, data, and configuration files are located:
-├───background/ # Backend logic and utility classes (e.g., file_manager.py) │   └───__pycache__/ ├───data/ # Storage location for application data (user records, etc.) ├───GUI/ # All Tkinter UI code (e.g., dashboard modules, calculator) │   └───__pycache__/ └───requirements/ # Contains requirements.txt for project dependencies
+├───background/ # Backend logic and utility classes (e.g., file_manager.py)  
+├───data/ # Storage location for application data (user records, etc.) 
+├───GUI/ # All Tkinter UI code (e.g., dashboard modules, calculator)
+└───requirements/ # Contains requirements.txt for project dependencies
+main.py # Run the application
 
 ## 📸 Screenshots
 
