@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "doctor": "Dr. John Smith",
+        "patient": "Ali Hassan",
+        "date": "2025-09-16",
+        "diagnosis": "Accedant",
+        "treatment": "solpadin",
+        "doctor_id": 1,
+        "patient_id": 1
+    },
+    {
+        "id": 2,
+        "doctor": "Dr. John Smith",
+        "patient": "Mohammed Ali",
+        "date": "2025-09-16",
+        "diagnosis": "sick",
+        "treatment": "sryinge",
+        "doctor_id": 1,
+        "patient_id": 7
+    },
+    {
+        "id": 3,
+        "doctor": "Dr. John Smith",
+        "patient": "Nebeel",
+        "date": "2020-02-01 11:22",
+        "diagnosis": null,
+        "treatment": null,
+        "patient_id": 7,
+        "doctor_id": 1
+    },
+    {
+        "id": 4,
+        "doctor": "Dr. John Smith",
+        "patient": "admin",
+        "patient_id": 1,
+        "doctor_id": 1,
+        "date": "2020-02-15 07:17",
+        "diagnosis": null,
+        "treatment": null
+    },
+    {
+        "id": 5,
+        "doctor": "Dr. John Smith",
+        "patient": "admin",
+        "patient_id": 1,
+        "doctor_id": 1,
+        "date": "2020-02-19 07:17",
+        "diagnosis": null,
+        "treatment": null
+    },
+    {
+        "id": 6,
+        "doctor": "Dr. Sara li",
+        "patient": "pat_ali",
+        "date": "2020-02-28 07:17",
+        "diagnosis": "sick",
+        "treatment": "solpadin",
+        "patient_id": 3,
+        "doctor_id": 2
+    },
+    {
+        "id": 7,
+        "doctor": "Dr. John Smith",
+        "patient": "Ali Hassan",
+        "date": "2025-09-16",
+        "diagnosis": "sick",
+        "treatment": "solpadin",
+        "doctor_id": 1,
+        "patient_id": 1
+    },
+    {
+        "id": 8,
+        "doctor": "dr_smith",
+        "patient": "pat_ali",
+        "date": "2025-09-30 05:30",
+        "diagnosis": null,
+        "treatment": null,
+        "patient_id": 4,
+        "doctor_id": 1
+    }
+]

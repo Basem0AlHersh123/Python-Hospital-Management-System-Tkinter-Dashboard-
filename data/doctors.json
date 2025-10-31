@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "dr_smith",
+        "specialization": "Cardiology",
+        "phone": "777222333",
+        "license_number": "LIC001",
+        "active": true
+    },
+    {
+        "id": 2,
+        "name": "Dr_Sara",
+        "specialization": "Dermatology",
+        "phone": "777555666",
+        "license_number": "LIC002",
+        "active": true
+    },
+    {
+        "id": 3,
+        "name": "hammood",
+        "specialization": "cardio",
+        "phone": "773022084",
+        "license_number": "LIC002",
+        "active": false
+    }
+]

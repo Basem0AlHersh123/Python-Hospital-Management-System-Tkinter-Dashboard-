@@ -1,0 +1,8 @@
+# background/utils.py
+import os, sys
+
+def resource_path(relative_path):
+    if getattr(sys, "_MEIPASS", False):
+        # PyInstaller unpacked resources to a temp folder
+        return os.path.join(sys._MEIPASS, relative_path)
+    return os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), relative_path)

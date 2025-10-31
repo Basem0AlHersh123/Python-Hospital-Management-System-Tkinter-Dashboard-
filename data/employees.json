@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "Ali Hammood",
+        "age": 30,
+        "phone": "777444555",
+        "gender": "Male",
+        "medical_history": "No known conditions",
+        "active": true
+    },
+    {
+        "id": 2,
+        "name": "Mona Bahy",
+        "age": 25,
+        "phone": "777999888",
+        "gender": "Female",
+        "medical_history": "Allergic to penicillin",
+        "active": true
+    },
+    {
+        "id": 3,
+        "name": "Lisa",
+        "password": "123456",
+        "gender": "Female",
+        "medical_history": "Allergic to penicillin",
+        "phone": "777333444",
+        "active": false
+    }
+]

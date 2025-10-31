@@ -1,0 +1,145 @@
+[
+    {
+        "id": 1,
+        "name": "admin",
+        "password": "123456",
+        "role": "admin",
+        "full_name": "System Administrator",
+        "phone": "777111222",
+        "active": true
+    },
+    {
+        "id": 1,
+        "name": "dr_smith",
+        "password": "123456",
+        "role": "doctor",
+        "full_name": "Dr. John Smith",
+        "phone": "777222333",
+        "active": true
+    },
+    {
+        "id": 3,
+        "name": "dr_ali",
+        "password": "123456",
+        "role": "doctor",
+        "full_name": "Dr. John Ali",
+        "phone": "777222333",
+        "active": false
+    },
+    {
+        "id": 2,
+        "name": "Dr_Sara",
+        "password": "123456",
+        "role": "doctor",
+        "phone": "777555666",
+        "active": true
+    },
+    {
+        "id": 3,
+        "name": "emp_lisa",
+        "password": "123456",
+        "role": "employee",
+        "full_name": "Lisa Brown",
+        "phone": "777333444",
+        "active": true
+    },
+    {
+        "id": 4,
+        "name": "pat_ali",
+        "password": "123456",
+        "role": "patient",
+        "full_name": "Ali Hassan",
+        "phone": "777444555",
+        "active": true
+    },
+    {
+        "id": 5,
+        "name": "emp_Khalid",
+        "password": "123456",
+        "role": "employee",
+        "full_name": "Khalid Al-Nahery",
+        "phone": "777444555",
+        "active": true
+    },
+    {
+        "id": 6,
+        "name": "hammood",
+        "password": "123456",
+        "role": "employee",
+        "full_name": "Hammood Al-Nahery",
+        "phone": "777444544",
+        "active": false
+    },
+    {
+        "id": 3,
+        "name": "khalid",
+        "password": "123khalid",
+        "role": "patient",
+        "phone": "777777777",
+        "active": true
+    },
+    {
+        "id": 3,
+        "name": "Maleek",
+        "password": "maleek123",
+        "role": "patient",
+        "phone": "654648978",
+        "active": true
+    },
+    {
+        "id": 3,
+        "name": "Amar",
+        "password": "77amar",
+        "role": "patient",
+        "phone": "780422224",
+        "active": true
+    },
+    {
+        "id": 7,
+        "name": "Yousif",
+        "password": "46546dfasf",
+        "role": "patient",
+        "phone": "778899454",
+        "active": true
+    },
+    {
+        "id": 8,
+        "name": "salah",
+        "password": "13aaljfd",
+        "role": "patient",
+        "phone": "778995224",
+        "active": true
+    },
+    {
+        "id": 7,
+        "name": "Nebeel",
+        "password": "ldjsf54",
+        "role": "patient",
+        "phone": "771893154",
+        "active": true
+    },
+    {
+        "id": 1,
+        "name": "pat_admin",
+        "password": "777111222",
+        "role": "True",
+        "phone": "777777777",
+        "active": false
+    },
+    {
+        "id": 14,
+        "name": "Mohammed",
+        "password": "123456g",
+        "role": "patient",
+        "phone": "778547898",
+        "active": true
+    },
+    {
+        "id": 15,
+        "name": "alii",
+        "password": "123456k",
+        "role": "patient",
+        "phone": "774875849",
+        "active": true
+    }
+]
